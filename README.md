@@ -39,10 +39,12 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <h2 align="center">⚒️ Aprendizados e Conhecimentos ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,figma,photoshop,vscode,pycharm,mysql,cpp" />
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
 </div>
+
 
 <hr/>
