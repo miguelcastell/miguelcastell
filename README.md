@@ -29,12 +29,6 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Aprendizados e Conhecimentos ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,figma,photoshop,vscode,pycharm,mysql,powerbi,cpp" />
-</div>
-
 <br/>
 <hr/>
 
