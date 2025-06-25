@@ -1,0 +1,30 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # roda todo dia à meia-noite (UTC)
+  workflow_dispatch:  # permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Generate Contribution Snake SVG
+      uses: paseban/github-contribution-grid-snake-action@v1
+      with:
+        username: miguelcastell
+        outputFile: ./output/github-contribution-grid-snake.svg
+
+    - name: Commit and Push SVG
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add ./output/github-contribution-grid-snake.svg
+        git commit -m "Update contribution snake"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
