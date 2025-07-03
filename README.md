@@ -6,7 +6,7 @@
 
 ---
 
-
+<div align="center">
  👨🏻‍💻 Atualmente trabalho como <strong>Analista de Sistemas</strong>
  
  ⚡ Atualmente estou aprendendo <strong>Python, Análise/Transformação de Dados, Banco de Dados e Pipeline de Dados</strong>
