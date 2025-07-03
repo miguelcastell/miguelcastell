@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Rajdhani&size=35&color=FFFFFF&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Me+chamo+Miguel+Mantoan+Castellani!&background=000000;" />
 </h1>
-
+ 
 <h3 align="center">Entusiasta de Dados e Tecnologias!</h3>
 
 <br/>
