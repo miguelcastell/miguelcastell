@@ -40,3 +40,9 @@
 
 <br/>
 <hr/>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/output/github-snake.svg" />
+</div>
+
