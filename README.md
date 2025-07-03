@@ -1,45 +1,70 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miguelcastell.miguelcastell" />
+<h1 align="center">Miguel Mantoan Castellani</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Rajdhani&size=35&color=FFFFFF&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Me+chamo+Miguel+Mantoan+Castellani!&background=000000;" />
-</h1>
- 
-<h3 align="center">Entusiasta de Dados e Tecnologias!</h3>
+<p align="center">
+  Desenvolvedor Python • Automações • Dados • Streamlit • SAP/Excel • Projetos contábeis e fiscais
+</p>
 
-<br/>
+---
 
-<div align="center">
+## 🧠 Sobre mim
 
- 👨🏻‍💻 Atualmente trabalho em um escritório de contabilidade como <strong>Analista de Sistema</strong>
- 
- ⚡ Atualmente estou aprendendo <strong>Python, Análise/Transformação de Dados, Banco de Dados e Montagem de Protótipos</strong>
+Sou um desenvolvedor com foco em automações, análise de dados e soluções para áreas como contabilidade, fiscal e produtividade empresarial. Trabalho com **Python**, **Streamlit**, **Excel avançado**, **SAP**, e estou sempre em busca de aplicar tecnologia para resolver problemas reais de forma eficiente e bem estruturada.
 
-</div>
+Atualmente atuo com:
 
-<div align="center"> 
-  <a href="mailto:miguelmcastell@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/miguel-mantoan-castellani-744304324/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/miguelcastell" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</div>
+- 👨‍💻 **Python**: automações, análise de dados e aplicações web com Streamlit  
+- 🧾 **Contabilidade & Fiscal**: cálculo e simulações do **Simples Nacional**, controle de notas fiscais e impostos  
+- 📦 **SAP + Excel**: gestão de materiais, relatórios dinâmicos, integração com dados de produção  
+- 📈 **Projetos em Power BI**: visualizações e dashboards para tomada de decisão  
+- 🤖 Estudando **Inteligência Artificial** e **Modelagem de Dados**  
 
-<hr/>
+---
 
-<h2 align="center">Aprendizados e Conhecimentos</h2>
-<br/>
-<div align="center" style="display:flex; gap:10px; justify-content:center; align-items:center;">
-    <img src="https://skillicons.dev/icons?i=python,figma,vscode,pycharm,mysql,cpp" />
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
-    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Photoshop" />
-</div>
+## 🛠️ Tecnologias que uso
 
-<br/>
-<hr/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,streamlit,excel,vscode,github,git,figma,pandas" />
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+- 🔢 **Calculadora do Simples Nacional**  
+  App completo em Python/Streamlit para cálculo de tributos do DAS com base nos Anexos III, IV e V da LC 123/2006.  
+  → *Cálculo automático, simulação de ISS retido, visual moderno, código limpo.*
+
+- 📊 **Pipeflow — Power BI Business Case**  
+  Dashboard completo para uma distribuidora fictícia (B2B + B2C) com KPIs de vendas, compras e logística.  
+  → *Layout profissional, storytelling de dados, simulação de decisões estratégicas.*
+
+- 🧠 **Sensor de Ruídos (Arduino)**  
+  Projeto com sensores de decibéis e LEDs RGB para alertas em ambientes fechados.  
+  → *Classificação de ruído em tempo real para ambientes escolares ou corporativos.*
+
+---
+
+## 💼 Atualmente
+
+- Atuo em projetos próprios e como **freelancer** com foco em:
+  - Criação de apps com Python + Streamlit  
+  - Automatização de planilhas e sistemas  
+  - Criação de dashboards e relatórios dinâmicos  
+  - Modelagem de dados e lógica de negócios  
+
+---
+
+## 📫 Contato
+
+- 📧 Email: miguel.castellani@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-mantoan)  
+- 💻 [Portfólio (GitHub)](https://github.com/miguelcastell?tab=repositories)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=miguelcastell.miguelcastell" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelcastell/miguelcastell/output/github-contribution-grid-snake-dark.svg">
