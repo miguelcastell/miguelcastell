@@ -30,7 +30,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Aprendizados e Conhecimentos ⚒️</h2>
+<h2 align="center">Aprendizados e Conhecimentos</h2>
 <br/>
 <div align="center" style="display:flex; gap:10px; justify-content:center; align-items:center;">
     <img src="https://skillicons.dev/icons?i=python,figma,vscode,pycharm,mysql,cpp" />
