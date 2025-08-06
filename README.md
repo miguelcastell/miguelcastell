@@ -5,17 +5,17 @@
 <!-- Fonte opcional do Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap" rel="stylesheet" />
 
+<!-- Fonte mais fina e elegante -->
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@1,300&display=swap" rel="stylesheet" />
+
 <h1 align="center" style="
-  font-family: 'Fira Code', monospace;
+  font-family: 'JetBrains Mono', monospace;
   font-weight: 300;
-  font-size: 1.6em;
-  color: #9AECDB;
-  background-color: #1e1e1e;
-  padding: 15px;
-  border-radius: 8px;
-  display: inline-block;
+  font-style: italic;
+  font-size: 1.8em;
+  color: #7fdbca;
 ">
-  const name = "<span style='color:#FFE66D;'>Miguel Mantoan Castellani</span>";
+  const name = "<span style='color:#f7d794;'>Miguel Mantoan Castellani</span>";
 </h1>
 
 <p>Analista de Sistemas e de Dados</p>  
