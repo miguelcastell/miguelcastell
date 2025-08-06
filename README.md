@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1854219/screenshots/14094651/media/ccd010d0a6d18c1adf77142be183a5d8.gif" width="400px" alt="Notebook com café animado" />
+</p>
+
 # Miguel Mantoan Castellani
 
 🧠 Analista de Sistemas e Dados | Estudante de I.A  
@@ -30,3 +34,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=default)
 
 ---
+
+<p align="center">
+  <i>"Transformando dados em decisões e café em código ☕💻"</i>
+</p>
