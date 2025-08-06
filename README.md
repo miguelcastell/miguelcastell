@@ -1,35 +1,32 @@
-# 🛠️ Miguel Mantoan Castellani
+# Miguel Mantoan Castellani
 
-**Estudante de Inteligência Artificial | Analista de Sistemas e Dados | Projetos com propósito**
-
----
-
-## 🌍 Sobre mim
-
-- 🎯 Foco em soluções reais com dados e automações
-- 💬 Experiência com equipes multidisciplinares
-- 📌 Localização: Brasil
+🧠 Analista de Sistemas e Dados | Estudante de I.A  
+💼 Automatizações • Banco de Dados • Pipelines • Dashboards  
 
 ---
 
-## 🔨 Projetos em destaque
+## 📫 Contato
 
-- **[Calculadora Simples Nacional](https://github.com/miguelcastell/simples-nacional)** – Streamlit + Python
-- **[SagaHub Login](https://github.com/miguelcastell/sagahub)** – HTML + CSS + JS
-- **[Dashboard Power BI](https://github.com/miguelcastell/powerbi-dashboard)**
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=merko)
+[![Email](https://img.shields.io/badge/Email-Direto-informational?style=flat&logo=gmail)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-informational?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Site-informational?style=flat&logo=dev.to)](https://seusite.dev)
 
 ---
 
-## 💡 Tecnologias
+## 💻 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=flat&logo=adobe-photoshop)
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
+
+---
+
+## 📈 Estatísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&theme=default)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=default)
 
 ---
