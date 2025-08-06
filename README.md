@@ -38,5 +38,6 @@
 <br/>
 <hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastellani&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&theme=tokyonight)
+
 
