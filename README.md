@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h1><code>const name = "Miguel Mantoan Castellani";</code></h1>
+  <h1>Miguel Mantoan Castellani</h1>
 </p>
 
 <p align="left"><strong>Analista de Sistemas e de Dados</strong><br>
