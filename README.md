@@ -27,12 +27,18 @@
 
 ---
 
-## 📈 Estatísticas
+### 📊 Aplicações e Dados:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&theme=default)
+---
+
+<div align="left">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=default)
-
+</div>
 ---
 
 <p align="center">
