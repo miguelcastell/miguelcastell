@@ -11,9 +11,9 @@
 
 ## 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-Direto-informational?style=flat&logo=gmail)](mailto:seuemail@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-informational?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Site-informational?style=flat&logo=dev.to)](https://seusite.dev)
+[![Email](https://img.shields.io/badge/Email-Direto-informational?style=flat&logo=gmail)](mailto:miguelmcastell@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-informational?style=flat&logo=linkedin)]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/miguel-mantoan-castellani-744304324))
+[![Portfólio](https://img.shields.io/badge/Portfólio-Site-informational?style=flat&logo=dev.to)](https://github.com/miguelcastell/miguelcastell/)
 
 ---
 
