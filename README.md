@@ -1,42 +1,35 @@
-<h1 align="center">Miguel Mantoan Castellani 👋</h1>
+# 🛠️ Miguel Mantoan Castellani
 
-<p align="center">💻 Estudante de Inteligência Artificial | Analista de Sistemas | Entusiasta de Dados</p>
-
----
-
-### 🔗 Links
-
-<p align="center">
-  <a href="mailto:seuemail@email.com">Email</a> •
-  <a href="https://linkedin.com/in/seuusuario">LinkedIn</a> •
-  <a href="https://seusite.dev">Portfólio</a>
-</p>
+**Estudante de Inteligência Artificial | Analista de Sistemas e Dados | Projetos com propósito**
 
 ---
 
-### 🚀 Tech Stack
+## 🌍 Sobre mim
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40"/>
-</div>
+- 🎯 Foco em soluções reais com dados e automações
+- 💬 Experiência com equipes multidisciplinares
+- 📌 Localização: Brasil
 
 ---
 
-### 📊 GitHub Stats
+## 🔨 Projetos em destaque
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&theme=radical" width="45%"/>
-</p>
+- **[Calculadora Simples Nacional](https://github.com/miguelcastell/simples-nacional)** – Streamlit + Python
+- **[SagaHub Login](https://github.com/miguelcastell/sagahub)** – HTML + CSS + JS
+- **[Dashboard Power BI](https://github.com/miguelcastell/powerbi-dashboard)**
 
 ---
 
-### 🐍 Snake Graph (opcional)
+## 📈 GitHub Stats
 
-<!-- snake -->
-<p align="center">
-  <img src="https://github.com/miguelcastell/miguelcastell/blob/output/github-contribution-grid-snake.svg" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=merko)
+
+---
+
+## 💡 Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
+
+---
