@@ -3,8 +3,8 @@
 </p>
 
  <h1>Miguel Mantoan Castellani</h1>
-<p>🧠 Analista de Sistemas e Dados | Estudante de I.A</p>  
-<p>💼 Automatizações • Banco de Dados • Pipelines • Dashboards</p>  
+<p></p>Analista de Sistemas e de Dados</p>  
+<p>Graduando em I.A. | Faculdade Donaduzzi</p>  
 
 ---
 
