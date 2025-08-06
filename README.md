@@ -3,6 +3,11 @@
 </p>
 
 
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
  <h1>Miguel Mantoan Castellani</h1>
 🧠 Analista de Sistemas e Dados | Estudante de I.A  
 💼 Automatizações • Banco de Dados • Pipelines • Dashboards  
@@ -35,9 +40,6 @@
 
 ---
 
-<div align = "left">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=default)
-  <div>
 <p align="center">
   <i>"Transformando dados em decisões e café em código ☕💻"</i>
 </p>
