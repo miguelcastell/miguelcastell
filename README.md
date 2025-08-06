@@ -1,32 +1,42 @@
-# Miguel Mantoan Castellani
+<h1 align="center">Miguel Mantoan Castellani 👋</h1>
 
-🧠 Analista de Sistemas e Dados | Estudante de I.A  
-💼 Automatizações • Banco de Dados • Pipelines • Dashboards  
-
----
-
-## 📫 Contato
-
-[![Email](https://img.shields.io/badge/Email-Direto-informational?style=flat&logo=gmail)](mailto:seuemail@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-informational?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Site-informational?style=flat&logo=dev.to)](https://seusite.dev)
+<p align="center">💻 Estudante de Inteligência Artificial | Analista de Sistemas | Entusiasta de Dados</p>
 
 ---
 
-## 💻 Tecnologias
+### 🔗 Links
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=flat&logo=adobe-photoshop)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
+<p align="center">
+  <a href="mailto:seuemail@email.com">Email</a> •
+  <a href="https://linkedin.com/in/seuusuario">LinkedIn</a> •
+  <a href="https://seusite.dev">Portfólio</a>
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40"/>
+</div>
 
 ---
 
-## 📈 Estatísticas
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&theme=default)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&theme=radical" width="45%"/>
+</p>
 
 ---
+
+### 🐍 Snake Graph (opcional)
+
+<!-- snake -->
+<p align="center">
+  <img src="https://github.com/miguelcastell/miguelcastell/blob/output/github-contribution-grid-snake.svg" />
+</p>
