@@ -16,24 +16,25 @@
 
 ---
 
-### Linguagens:
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+## Linguagens:
 
-### Em aprendizado:
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=nodedotjs)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=white)
 
-### Aplicação de Dados:
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
+## Em aprendizado:
 
-### Ferramentas:
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=flat&logo=adobephotoshop)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333?style=flat&logo=pycharm)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=nodedotjs&logoColor=white)
+
+## Aplicações e Dados:
+
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=flat&logo=adobephotoshop&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333?style=flat&logo=pycharm&logoColor=white)
 
 ---
 
