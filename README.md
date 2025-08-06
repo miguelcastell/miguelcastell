@@ -36,9 +36,10 @@
 ![SQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=flat&logo=adobe-photoshop)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=flat&logo=adobephotoshop&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
