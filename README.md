@@ -21,27 +21,19 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 
----
-
 ### Em aprendizado:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=nodedotjs)
 
----
-
 ### Aplicação de Dados:
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
-
----
 
 ### Ferramentas:
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=flat&logo=adobephotoshop)
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333?style=flat&logo=pycharm)
-
-
 
 ---
 
