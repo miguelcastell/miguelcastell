@@ -6,7 +6,7 @@
   <span class="typed-text"></span>
 </h1>
 
-<h1 align="center" style="font-family: 'Fira Code', monospace; font-size: 2.2em;">
+<h1 align="left" style="font-family: 'Fira Code', monospace; font-size: 2.2em;">
   const name = "<span style='color:#00ADB5;'>Miguel Mantoan Castellani</span>";
 </h1>
 
