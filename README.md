@@ -6,18 +6,15 @@
   <span class="typed-text"></span>
 </h1>
 
-<script>
-  const text = "Miguel Mantoan Castellani";
-  let index = 0;
-  function type() {
-    if (index < text.length) {
-      document.querySelector(".typed-text").textContent += text.charAt(index);
-      index++;
-      setTimeout(type, 100);
-    }
-  }
-  type();
-</script>
+<h1 align="center" style="
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  font-size: 2.5em;
+">
+  Miguel Mantoan Castellani
+</h1>
 
 <p>Analista de Sistemas e de Dados</p>  
 <p>Graduando em I.A. | Faculdade Donaduzzi</p>  
