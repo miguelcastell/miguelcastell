@@ -8,7 +8,7 @@
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![Email](https://img.shields.io/badge/Email-Direto-informational?style=flat&logo=gmail)](mailto:seuemail@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-informational?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)
@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Tecnologias
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 Aplicações e Dados:
+### Aplicações e Dados:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
