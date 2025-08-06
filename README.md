@@ -6,14 +6,8 @@
   <span class="typed-text"></span>
 </h1>
 
-<h1 align="center" style="
-  background: linear-gradient(to right, #00c6ff, #0072ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-weight: bold;
-  font-size: 2.5em;
-">
-  Miguel Mantoan Castellani
+<h1 align="center" style="font-family: 'Fira Code', monospace; font-size: 2.2em;">
+  const name = "<span style='color:#00ADB5;'>Miguel Mantoan Castellani</span>";
 </h1>
 
 <p>Analista de Sistemas e de Dados</p>  
