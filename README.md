@@ -35,11 +35,11 @@
 
 ---
 
-<div align="top">
+<div align="right">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=default)
 </div>
----
+
 
 <p align="center">
   <i>"Transformando dados em decisões e café em código ☕💻"</i>
