@@ -1,43 +1,32 @@
-<h1 align="center">Miguel Mantoan Castellani</h1>
+# Miguel Mantoan Castellani
 
-<p align="center">
-  Python • Automações • Analista de Sistemas e de Dados • Estudante de I.A.
-</p>
+🧠 Analista de Sistemas e Dados | Estudante de I.A  
+💼 Automatizações • Banco de Dados • Pipelines • Dashboards  
 
 ---
 
-<div align="center">
- 👨🏻‍💻 Atualmente trabalho como <strong>Analista de Sistemas</strong>
- 
- ⚡ Gosto muito de <strong>Python, Análise/Transformação de Dados, Banco de Dados e Pipeline de Dados</strong>
+## 📫 Contato
 
-</div>
+[![Email](https://img.shields.io/badge/Email-Direto-informational?style=flat&logo=gmail)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-informational?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Site-informational?style=flat&logo=dev.to)](https://seusite.dev)
 
-<div align="center"> 
-  <a href="mailto:miguelmcastell@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/miguel-mantoan-castellani-744304324/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/miguelcastell" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</div>
+---
 
-<hr/>
+## 💻 Tecnologias
 
-<h2 align="center">Aprendizados e Conhecimentos</h2>
-<br/>
-<div align="center" style="display:flex; gap:10px; justify-content:center; align-items:center;">
-    <img src="https://skillicons.dev/icons?i=python,figma,vscode,pycharm,mysql,cpp" />
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
-    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Photoshop" />
-</div>
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=flat&logo=adobe-photoshop)
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
 
-<br/>
-<hr/>
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&theme=tokyonight)
+## 📈 Estatísticas
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&theme=default)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=default)
+
+---
