@@ -8,7 +8,7 @@
 <!-- Fonte mais fina e elegante -->
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@1,300&display=swap" rel="stylesheet" />
 
-<h1 align="center" style="
+<h1 align="left" style="
   font-family: 'JetBrains Mono', monospace;
   font-weight: 300;
   font-style: italic;
