@@ -2,19 +2,16 @@
   <img src="https://cdn.dribbble.com/users/1854219/screenshots/14094651/media/ccd010d0a6d18c1adf77142be183a5d8.gif" width="400px" alt="Notebook com café animado" />
 </p>
 
-<!-- Fonte opcional do Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap" rel="stylesheet" />
-
-<!-- Fonte mais fina e elegante -->
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@1,300&display=swap" rel="stylesheet" />
-
-<h1 align="left" style="
-  font-family: 'JetBrains Mono', monospace;
+<h1 align="center" style="
+  font-family: 'Roboto Mono', monospace;
   font-weight: 300;
   font-style: italic;
   font-size: 1.8em;
-  color: #7fdbca;
+  color: #7FDBCA;
 ">
+  const name = "<span style='color:#FFE66D;'>Miguel Mantoan Castellani</span>";
+</h1>
+
   const name = "<span style='color:#f7d794;'>Miguel Mantoan Castellani</span>";
 </h1>
 
