@@ -2,12 +2,20 @@
   <img src="https://cdn.dribbble.com/users/1854219/screenshots/14094651/media/ccd010d0a6d18c1adf77142be183a5d8.gif" width="400px" alt="Notebook com café animado" />
 </p>
 
-<h1 align="center">
-  <span class="typed-text"></span>
-</h1>
+<!-- Fonte opcional do Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap" rel="stylesheet" />
 
-<h1 align="left" style="font-family: 'Fira Code', monospace; font-size: 2.2em;">
-  const name = "<span style='color:#00ADB5;'>Miguel Mantoan Castellani</span>";
+<h1 align="center" style="
+  font-family: 'Fira Code', monospace;
+  font-weight: 300;
+  font-size: 1.6em;
+  color: #9AECDB;
+  background-color: #1e1e1e;
+  padding: 15px;
+  border-radius: 8px;
+  display: inline-block;
+">
+  const name = "<span style='color:#FFE66D;'>Miguel Mantoan Castellani</span>";
 </h1>
 
 <p>Analista de Sistemas e de Dados</p>  
