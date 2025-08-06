@@ -2,10 +2,22 @@
   <img src="https://cdn.dribbble.com/users/1854219/screenshots/14094651/media/ccd010d0a6d18c1adf77142be183a5d8.gif" width="400px" alt="Notebook com café animado" />
 </p>
 
-<h1 align="center" style="font-family: 'Courier New', monospace;">
-  <span style="font-size: 2.5em; color:#FF6363;">Miguel</span><br/>
-  <span style="font-size: 1.2em; letter-spacing: 2px; color:#999;">MANTOAN CASTELLANI</span>
+<h1 align="center">
+  <span class="typed-text"></span>
 </h1>
+
+<script>
+  const text = "Miguel Mantoan Castellani";
+  let index = 0;
+  function type() {
+    if (index < text.length) {
+      document.querySelector(".typed-text").textContent += text.charAt(index);
+      index++;
+      setTimeout(type, 100);
+    }
+  }
+  type();
+</script>
 
 <p>Analista de Sistemas e de Dados</p>  
 <p>Graduando em I.A. | Faculdade Donaduzzi</p>  
