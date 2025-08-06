@@ -35,7 +35,7 @@
 
 ---
 
-<div align="left">
+<div align="top">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=default)
 </div>
