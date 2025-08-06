@@ -1,7 +1,7 @@
 <h1 align="center">Miguel Mantoan Castellani</h1>
 
 <p align="center">
-  Desenvolvedor Python • Automações • Analista de Sistemas e de Dados • Estudante de I.A.
+  Python • Automações • Analista de Sistemas e de Dados • Estudante de I.A.
 </p>
 
 ---
