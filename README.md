@@ -3,8 +3,10 @@
 </p>
 
 <h1 align="center">
-  <strong><span style="color:#00ADB5;">Miguel</span> <span style="color:#EEEEEE;">Mantoan Castellani</span></strong>
+  ☕ <span style="color:#F8B400;">Miguel Mantoan</span><br />
+  <span style="color:#EEEEEE;">Castellani</span> 💻
 </h1>
+
 
 <p>Analista de Sistemas e de Dados</p>  
 <p>Graduando em I.A. | Faculdade Donaduzzi</p>  
