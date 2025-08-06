@@ -16,7 +16,7 @@
 
 ---
 
-<h3>Linguagens</h3>
+### Linguagens
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
