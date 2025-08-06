@@ -2,7 +2,10 @@
   <img src="https://cdn.dribbble.com/users/1854219/screenshots/14094651/media/ccd010d0a6d18c1adf77142be183a5d8.gif" width="400px" alt="Notebook com café animado" />
 </p>
 
-<h1>Miguel Mantoan Castellani</h1>
+<h1 align="center">
+  <strong><span style="color:#00ADB5;">Miguel</span> <span style="color:#EEEEEE;">Mantoan Castellani</span></strong>
+</h1>
+
 <p>Analista de Sistemas e de Dados</p>  
 <p>Graduando em I.A. | Faculdade Donaduzzi</p>  
 
