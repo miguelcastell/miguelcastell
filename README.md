@@ -2,25 +2,18 @@
   <img src="https://cdn.dribbble.com/users/1854219/screenshots/14094651/media/ccd010d0a6d18c1adf77142be183a5d8.gif" width="400px" alt="Notebook com café animado" />
 </p>
 
-<h1 align="center" style="
-  font-family: 'Roboto Mono', monospace;
-  font-weight: 300;
-  font-style: italic;
-  font-size: 1.8em;
-  color: #7FDBCA;
-">
-  const name = "<span style='color:#FFE66D;'>Miguel Mantoan Castellani</span>";
-</h1>
+<p align="center">
+  <code>
+    const name = "Miguel Mantoan Castellani";
+  </code>
+</p>
 
-  const name = "<span style='color:#f7d794;'>Miguel Mantoan Castellani</span>";
-</h1>
-
-<p>Analista de Sistemas e de Dados</p>  
-<p>Graduando em I.A. | Faculdade Donaduzzi</p>  
+<p align="center"><strong>Analista de Sistemas e de Dados</strong><br>
+Graduando em I.A. | Faculdade Donaduzzi</p>
 
 ---
 
-## Contato
+## 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-Direto-informational?style=flat&logo=gmail)](mailto:seuemail@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-informational?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)
@@ -28,20 +21,24 @@
 
 ---
 
-### Linguagens
+## 💻 Linguagens
+
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 
-### Em aprendizado
+### 📚 Em aprendizado
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=nodedotjs)
 
-### Aplicação de Dados
+### 📊 Aplicação de Dados
+
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
 
-### Ferramentas
+### 🛠️ Ferramentas
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=flat&logo=adobephotoshop)
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
