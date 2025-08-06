@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <h3><code>const name = "Miguel Mantoan Castellani";</code></h3>
+  <h1><code>const name = "Miguel Mantoan Castellani";</code></h1>
 </p>
 
-<p align="center"><strong>Analista de Sistemas e de Dados</strong><br>
+<p align="left"><strong>Analista de Sistemas e de Dados</strong><br>
 Graduando em I.A. | Faculdade Donaduzzi</p>
 
 ---
