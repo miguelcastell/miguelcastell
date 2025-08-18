@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1854219/screenshots/14094651/media/ccd010d0a6d18c1adf77142be183a5d8.gif" width="400px" alt="Notebook com café animado" />
-</p>
-
-<p align="center">
   <h1>Miguel Mantoan Castellani</h1>
 </p>
 
