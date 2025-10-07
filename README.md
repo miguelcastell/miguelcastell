@@ -21,11 +21,6 @@ Graduando em I.A. | Faculdade Donaduzzi</p>
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 
-### 📚 Em aprendizado
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=nodedotjs)
-
 ### 📊 Aplicação de Dados
 
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
