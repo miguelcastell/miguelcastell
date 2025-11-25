@@ -2,34 +2,37 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="profile-light.png">
-    <img alt="Foto de perfil" src="profile-light.png" width="220">
+    <img src="profile-light.png" width="210" />
   </picture>
 </p>
 
-<h1 align="center">Miguel Mantoan Castellani</h1>
-<p align="center"><strong>Analista de Sistemas e Dados</strong> • Graduando em I.A. (Faculdade Donaduzzi)</p>
+<h2 align="center">Miguel Mantoan Castellani</h2>
+<p align="center">💻 Analista de Sistemas • 📊 Analista de Dados • 🤖 Graduando em I.A.</p>
 
 ---
 
-## 📫 Contato
+## 🚀 Stack Principal
 
-[Email](mailto:seuemail@email.com) • 
-[LinkedIn](https://linkedin.com/in/seuusuario) • 
-[Portfólio](https://seusite.dev)
-
----
-
-## 💻 Tecnologias
-
-**Linguagens:** Python, HTML5, CSS3  
-**Dados:** Pandas, Power BI  
-**Ferramentas:** MySQL, VSCode, PyCharm, Photoshop  
+| Categoria | Tecnologias |
+|----------|-------------|
+| **Linguagens** | Python, HTML, CSS |
+| **Dados** | Pandas, Power BI |
+| **Banco de Dados** | MySQL |
+| **IDE / Ferramentas** | VSCode, PyCharm, Photoshop |
 
 ---
 
-## 🔍 Sobre mim
+## 🧠 Interesses
 
-Transformo dados em decisões e ideias em sistemas reais.  
-Gosto de IA, automação, banco de dados, sistemas inteligentes e café ☕.
+- Inteligência Artificial  
+- Data Engineering  
+- Automações  
+- Sistemas Web inteligentes  
 
 ---
+
+## 📊 Status do GitHub
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=tokyonight">
+</p>
