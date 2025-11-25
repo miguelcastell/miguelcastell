@@ -1,31 +1,41 @@
 <p align="center">
-  <h1>Miguel Mantoan Castellani</h1>
+  <img src="https://komarev.com/ghpvc/?username=miguelcastell&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
-  <strong>Analista de Sistemas e de Dados | Graduando em I.A.</strong>
-</p>
+<div align="center">
+  <img src="/home/ubuntu/miguel_ai_profile.png" width="150px" alt="Miguel Mantoan Castellani - Ilustração IA" />
+</div>
+
+<h1 align="center">Olá! Eu sou o Miguel Mantoan Castellani 👋</h1>
+
+<h3 align="center">Analista de Sistemas e de Dados | Futuro em I.A. 🤖</h3>
 
 ---
 
-## 💻 Tech Stack & Ferramentas
+## 🚀 Sobre Mim
+
+Sou um **Analista de Sistemas e de Dados** com foco em transformar dados em soluções práticas. Atualmente, estou no caminho da **Inteligência Artificial**, buscando aplicar algoritmos e modelagem de dados para criar soluções eficientes.
+
+---
+
+## 🛠️ Minha Stack (Hard Skills)
 
 <p align="center">
   <!-- Hard Skills - Linguagens e Ferramentas -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/SAP-0091D9?style=flat&logo=sap&logoColor=white" alt="SAP" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
 </p>
 
 ---
 
-## ✨ Soft Skills (O que me move)
+## ✨ Soft Skills (O que me impulsiona)
 
 <p align="center">
   <!-- Soft Skills - Minimalista com ícones -->
@@ -38,20 +48,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Os números falam por si)
 
 <p align="center">
-  <!-- Gráficos de Estatísticas - Minimalista -->
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <!-- Gráfico de Estatísticas Detalhado (similar ao da Larissa Kich) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Conecte-se
+## 📫 Conecte-se Comigo
 
 <p align="center">
-  <!-- Contato - Minimalista -->
   <a href="mailto:miguelmcastell@hotmail.com">
     <img src="https://img.shields.io/badge/Email-miguelmcastell@hotmail.com-informational?style=flat&logo=gmail" alt="Email" />
   </a>
@@ -67,10 +76,4 @@
 
 <p align="center">
   <i>"Transformando dados em decisões e café em código"</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/miguelcastell">
-    <img src="https://komarev.com/ghpvc/?username=miguelcastell&color=blue" alt="Profile views" />
-  </a>
 </p>
