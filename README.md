@@ -2,37 +2,34 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="profile-light.png">
-    <img src="profile-light.png" width="210" />
+    <img src="profile-light.png" width="200">
   </picture>
 </p>
 
-<h2 align="center">Miguel Mantoan Castellani</h2>
-<p align="center">💻 Analista de Sistemas • 📊 Analista de Dados • 🤖 Graduando em I.A.</p>
+# Miguel Mantoan Castellani  
+**Analista de Sistemas e Dados | IA em formação**
 
 ---
 
-## 🚀 Stack Principal
+## 🧩 Sobre mim
 
-| Categoria | Tecnologias |
-|----------|-------------|
-| **Linguagens** | Python, HTML, CSS |
-| **Dados** | Pandas, Power BI |
-| **Banco de Dados** | MySQL |
-| **IDE / Ferramentas** | VSCode, PyCharm, Photoshop |
+Sou apaixonado por tecnologia, banco de dados, automação e inteligência artificial.  
+Atualmente curso I.A. na Faculdade Donaduzzi e desenvolvo soluções práticas no mundo real.
 
 ---
 
-## 🧠 Interesses
+## 🔧 Tecnologias
 
-- Inteligência Artificial  
-- Data Engineering  
-- Automações  
-- Sistemas Web inteligentes  
+- **Python**
+- **Pandas**
+- **MySQL**
+- **Power BI**
+- **HTML/CSS**
+- **VSCode, PyCharm, Photoshop**
 
 ---
 
-## 📊 Status do GitHub
+## 🌐 Links
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=tokyonight">
-</p>
+- **LinkedIn:** https://linkedin.com/in/seuusuario  
+- **Portfólio:** https://seusite.dev  
