@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
++<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá! Me chamo <strong>Miguel Mantoan Castellani</strong>, entusiasta da tecnologia e apaixonado por <strong>Data Science</strong>.<br>
@@ -40,6 +40,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop)
 
+---
 
 ### 🏆 GitHub Profile Trophy
 
