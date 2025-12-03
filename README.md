@@ -5,8 +5,6 @@
   Estou graduando em I.A. e trabalho como Analista de Sistemas.
 </p>
 
-# Minhas Skills
-
 **Aplicações e dados**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
