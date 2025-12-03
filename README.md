@@ -1,5 +1,5 @@
 <img 
-  src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/spiderman_style.png" 
+  src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/main/spiderman_style.png" 
   alt="Ilustração de computador neon personalizada" 
   width="400" 
   align="right"
