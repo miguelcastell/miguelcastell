@@ -53,13 +53,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop)
 
 ---
-
-<img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api?username=miguelcastell"
-  alt="Github Stats"
-/>
-
 <table>
   <tr>
     <td>
