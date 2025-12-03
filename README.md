@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Me chamo Miguel Mantoan Castellani, entusiasta da tecnologia e  gosto de<strong>data science</strong>.<br>
+  Olá! Me chamo Miguel Mantoan Castellani, entusiasta da tecnologia e apaixonado em <strong>Data Science</strong>.<br>
   Estou graduando em I.A. e trabalho como Analista de Sistemas.
 </p>
 
