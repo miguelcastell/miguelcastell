@@ -1,9 +1,4 @@
-<img 
-  src="https://simpleicons.org/icons/desktop.svg" 
-  alt="Ícone de um computador desktop" 
-  width="400" 
-  align="right"
-/>
+<img src="https://cdn.simpleicons.org/desktop/1572B6" alt="..." width="400" align="right"/>
 
 <p align="left">
   <a href="mailto:miguelmcastell@hotmail.com" title="Gmail">
