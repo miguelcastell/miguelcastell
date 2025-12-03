@@ -1,5 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left">
+  <a href="mailto:miguelmcastell@hotmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/miguel-mantoan-castellani-744304324/)" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="[https://instagram.com/seu-instagram](https://www.instagram.com/miguel_castellani/)" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 <p align="left"> 
   Olá! Me chamo <strong>Miguel Mantoan Castellani</strong>, entusiasta da tecnologia e apaixonado por <strong>Data Science</strong>.<br>
   Estou graduando em Inteligência Artificial e trabalho como Analista de Sistemas.
@@ -59,15 +71,3 @@
 </p>
 
 ---
-
-<p align="left">
-  <a href="mailto:miguelmcastell@hotmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
-  </a>
-  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/miguel-mantoan-castellani-744304324/)" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="[https://instagram.com/seu-instagram](https://www.instagram.com/miguel_castellani/)" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
-  </a>
-</p>
