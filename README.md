@@ -42,7 +42,7 @@
 
 ---
 
-[![Miguel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcastell&theme=city_lights&hide_border=true&date=1)](https://github.com/miguelcastell)
+[![Miguel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcastell&theme=dracula&hide_border=true&date=2)](https://github.com/miguelcastell)
 
 ### 🏆 GitHub Profile Trophy
 
