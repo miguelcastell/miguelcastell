@@ -5,7 +5,7 @@
   Estou graduando em I.A. e trabalho como Analista de Sistemas.
 </p>
 
-## Minhas Skills
+# Minhas Skills
 
 **Aplicações e dados**
 
