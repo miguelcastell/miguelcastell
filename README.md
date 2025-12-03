@@ -53,7 +53,7 @@
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=miguelcastell&column=8&theme=city_lights&no-frame=true&no-bg=true&v=1"
+      src="https://github-profile-trophy.vercel.app/?username=miguelcastell&column=8&theme=darkhub&no-frame=true&no-bg=true&v=1"
     />
   </a>
 </p>
