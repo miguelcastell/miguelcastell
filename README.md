@@ -1,9 +1,4 @@
-<img 
-  src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/monitor.svg" 
-  alt="Ícone de um monitor" 
-  width="400" 
-  align="right"
-/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400" align="right">
 
 <p align="left">
   <a href="mailto:miguelmcastell@hotmail.com" title="Gmail">
