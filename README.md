@@ -1,5 +1,5 @@
 <img 
-  src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/monitor-neon.svg" 
+  src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/monitor-neon.png" 
   alt="Ilustração de computador neon personalizada" 
   width="400" 
   align="right"
