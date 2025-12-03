@@ -42,12 +42,7 @@
 
 ---
 
-<p align="center">
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/miguelcastell?label=Seguidores&style=social">
-  <img alt="GitHub Public Repos" src="https://img.shields.io/github/public/repos/miguelcastell?label=Repositórios%20Públicos&color=blue">
-  <img alt="Total GitHub Stars" src="https://img.shields.io/github/stars/miguelcastell?label=Total%20Estrelas&style=flat&color=yellow">
-  <img alt="GitHub Profile Views" src="https://profile-counter.glitch.me/miguelcastell/count.svg">
-</p>
+[![Miguel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcastell&theme=dark&hide_border=true)](https://github.com/miguelcastell)
 
 ### 🏆 GitHub Profile Trophy
 
