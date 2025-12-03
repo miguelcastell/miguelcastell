@@ -23,9 +23,25 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
 
 **ETL | Engenharia de Dados**
+
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache-airflow)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop)
+
+
 
 
 <p align="left">
