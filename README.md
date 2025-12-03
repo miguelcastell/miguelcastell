@@ -55,30 +55,30 @@
 ---
 
 <table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=miguelcastell&theme=city_lights&hide_border=false&include_all_commits=true&cache_bust=999"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_bust=999"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=miguelcastell&theme=city_lights&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=miguelcastell&theme=dracula&hide_border=false&include_all_commits=true&cache_breaker=9999"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_breaker=9999"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=miguelcastell&theme=dracula&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
 </table>
 
 [![Miguel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcastell&line=1572B6&area_color=1572B6&bg_color=0D1117&hide_border=true&date=3)](https://github.com/miguelcastell)
