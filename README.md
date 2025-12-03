@@ -54,6 +54,12 @@
 
 ---
 
+<img
+  align="left"
+  src="https://github-readme-stats.vercel.app/api?username=miguelcastell"
+  alt="Github Stats"
+/>
+
 <table>
   <tr>
     <td>
