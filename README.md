@@ -42,7 +42,7 @@
 
 ---
 
-[![Miguel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcastell&theme=synthwave&hide_border=true)](https://github.com/miguelcastell)
+[![Miguel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcastell&theme=city_lights&hide_border=true)](https://github.com/miguelcastell)
 
 ### 🏆 GitHub Profile Trophy
 
@@ -53,7 +53,7 @@
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=miguelcastell&column=8&theme=darl&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=miguelcastell&column=8&theme=city_lights&no-frame=true&no-bg=true"
     />
   </a>
 </p>
