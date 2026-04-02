@@ -58,10 +58,9 @@
 
 ---
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-<img src="https://ghchart.rshah.org/409ba5/miguelcastell" />
-<img src="https://ghchart.rshah.org/0d1117/miguelcastell" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguelcastell&theme=github_dark"/>
+<p align="center">
+  <img src="https://github.com/miguelcastell/miguelcastell/blob/main/output/mario.gif"/>
+</p>
 
 <p align="center">
   <a
