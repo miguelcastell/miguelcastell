@@ -13,17 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate snake (purple theme)
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: miguelcastell
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#22d3ee&color_dots=#7c3aed&color_empty=#0d1117
+            dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
+      - name: Push
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
