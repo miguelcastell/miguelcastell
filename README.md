@@ -17,10 +17,12 @@
   </a>
 </p>
 
-<p align="left"> 
-  Olá! Me chamo <strong>Miguel Mantoan Castellani</strong>, entusiasta da tecnologia e apaixonado por <strong>Data Science</strong>.<br>
-  Estou graduando em Inteligência Artificial e trabalho como Analista de Sistemas.
-</p>
+<h3>Olá, meu nome é {Miguel}!</h3>
+
+> Analista de Sistema | Escritório Contábil <br>
+>  Graduando em Inteligência Artificial (3° Período) - IA | Biopark
+
+<p align="left">
 
 
 **Aplicações e Bancos de Dados**
