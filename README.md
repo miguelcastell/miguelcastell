@@ -1,97 +1,101 @@
-<img src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/main/cyber.png" alt="ilustração de computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/main/cyber.png" width="400" align="right"/>
 
-<h3>Olá, meu nome é Miguel!</h3>
+# 👋 Olá, eu sou o Miguel Castellani
 
-> 💼 Analista de Sistemas  
-> 🎓 Graduando em Inteligência Artificial  
-> 📊 Focado em Data Science, Engenharia e Análise de Dados  
-
-<p align="left">
-  💌 Entre em contato:
-</p>
-
-<p align="left">
-  <a href="mailto:miguelmcastell@hotmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/miguel-mantoan-castellani-744304324/">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/miguel_castellani/">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<br><br><br>
+🎯 Focado em **Data Science, Engenharia de Dados e Inteligência Artificial**  
+💻 Atuo como **Analista de Sistemas**, trabalhando com dados, automação e processos  
+📊 Experiência com **Python, SQL, Power BI e pipelines de dados**  
+🚀 Sempre evoluindo e construindo soluções orientadas a dados  
 
 ---
 
-## 🚀 Skills
+## ⚡ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 📦 Dados
+### 🧠 Dados & Back-end
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-
-### 📊 BI
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=F2C811)
-
-### 🗄️ Bancos
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)
 
-</td>
-
-<td valign="top" width="50%">
-
-### 🔄 Engenharia
-![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apacheairflow)
-![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apachespark)
-![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
-
-### 🤖 IA & Data
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=python)
+### 📊 Data Science & Visualização
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat)
 ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
 
-### 🛠️ Tools
+### ⚙️ Engenharia de Dados
+![Apache Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache-airflow)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
+
+### 🛠️ Ferramentas
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📈 Estatísticas
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop)
 
 ---
 
-## 💡 Projetos em destaque
+## 📈 GitHub Stats
 
-- 📊 Calculadora do Simples Nacional (Python + Streamlit)  
-- 🤖 Automação de e-mails com download de notas fiscais  
-- 💬 Chat em tempo real com Next.js + Socket.IO  
-- 🧠 Plataforma de Saúde Digital  
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 ---
 
-<picture>
-  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=miguelcastell&bg_color=0D1117&color=9333ea&line=9333ea&point=FFFFFF&hide_border=true">
-</picture>
+## 🧬 Atividade (efeito 3D / dinâmico)
+
+<p align="center">
+  <img src="https://github.com/miguelcastell/miguelcastell/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 📊 Gráfico de Atividade
+
+[![Miguel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcastell&line=00F7FF&area=true&bg_color=0D1117&hide_border=true)](https://github.com/miguelcastell)
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="mailto:miguelmcastell@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-mantoan-castellani-744304324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/miguel_castellani/">
+    <img src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Atualmente estudando
+
+- Inteligência Artificial aplicada a dados  
+- Modelagem e arquitetura de bancos de dados  
+- Automação e pipelines (ETL/ELT)  
+- Integração entre sistemas e APIs  
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 Em breve: organização dos principais projetos de Data & IA  
+🔹 Foco em soluções reais (automação, análise e backend de dados)  
+
+---
+
+## ⚡ Mentalidade
+
+> “Transformar dados em decisões é mais valioso do que apenas analisá-los.”
+
+---
