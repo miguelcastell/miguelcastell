@@ -70,7 +70,5 @@
 
 ### ⭐ Se você gostou do meu perfil, deixe uma estrela nos repositórios! ⭐
 
-<div style="width: 100%; height: 150px; background: linear-gradient(90deg, #9333ea, #6b21a8); display: flex; align-items: center; justify-content: center;">
-  <h2 style="color: white; font-size: 40px; margin: 0;">Happy Coding! 💜</h2>
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=9333ea&height=200&section=footer&text=Happy%20Coding!&fontSize=50&fontColor=fff&width=1200)
 </div>
