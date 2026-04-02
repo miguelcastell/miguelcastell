@@ -28,8 +28,6 @@
 
 ## 🚀 Skills
 
-<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=radical&hide_border=true"/>
-
 ### 📦 Aplicações e Dados
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
