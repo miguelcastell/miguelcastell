@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/miguelcastell/miguelcastell/blob/main/output/mario.gif"/>
+  <img src="https://github.com/miguelcastell/miguelcastell/blob/main/output/mario.gif?v=1"/>
 </p>
 
 <p align="center">
