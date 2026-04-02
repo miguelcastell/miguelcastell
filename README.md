@@ -1,3 +1,31 @@
+<img src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/main/cyber.png" alt="ilustração de computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<h3>Olá, meu nome é Miguel!</h3>
+
+> 💼 Analista de Sistemas  
+> 🎓 Graduando em Inteligência Artificial  
+> 📊 Focado em Data Science, Engenharia e Análise de Dados  
+
+<p align="left">
+  💌 Entre em contato:
+</p>
+
+<p align="left">
+  <a href="mailto:miguelmcastell@hotmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-mantoan-castellani-744304324/">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/miguel_castellani/">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<br><br><br>
+
+---
+
 ## 🚀 Skills
 
 <table>
@@ -40,3 +68,30 @@
 </td>
 </tr>
 </table>
+
+<br>
+
+## 📈 Estatísticas
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcastell&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+## 💡 Projetos em destaque
+
+- 📊 Calculadora do Simples Nacional (Python + Streamlit)  
+- 🤖 Automação de e-mails com download de notas fiscais  
+- 💬 Chat em tempo real com Next.js + Socket.IO  
+- 🧠 Plataforma de Saúde Digital  
+
+---
+
+<picture>
+  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=miguelcastell&bg_color=0D1117&color=9333ea&line=9333ea&point=FFFFFF&hide_border=true">
+</picture>
