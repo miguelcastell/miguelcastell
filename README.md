@@ -58,7 +58,7 @@
 
 ---
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=miguelcastell&show_icons=true&theme=default&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=miguelcastell&theme=default&hide_border=true&show_icons=false"/>
 
 [![Miguel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcastell&line=1572B6&area_color=1572B6&bg_color=0D1117&hide_border=true&date=3)](https://github.com/miguelcastell)
 
