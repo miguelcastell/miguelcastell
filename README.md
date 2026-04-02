@@ -58,7 +58,7 @@
 
 ---
 
-![pacman contribution graph](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/output/github-contribution-grid-snake.svg"/>
 
 <p align="center">
   <a
