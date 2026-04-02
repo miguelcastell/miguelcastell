@@ -58,9 +58,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/miguelcastell/miguelcastell/blob/main/output/mario.gif?v=1"/>
-</p>
+![pacman contribution graph](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a
