@@ -70,6 +70,5 @@
 
 ### ⭐ Se você gostou do meu perfil, deixe uma estrela nos repositórios! ⭐
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=9333ea&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff) 
 </div>
