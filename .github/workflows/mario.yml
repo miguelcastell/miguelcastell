@@ -1,9 +1,9 @@
 name: Generate Mario Contribution
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   build:
@@ -24,7 +24,7 @@ jobs:
       - name: Run script
         run: python scripts/generate_mario.py
 
-      - name: Commit and push
+      - name: Commit and push GIF
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
