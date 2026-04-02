@@ -58,7 +58,7 @@
 
 ---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelcastell&theme=github_dark"/>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 
 <p align="center">
   <a
