@@ -58,8 +58,7 @@
 
 ---
 
-<img src="https://ghchart.rshah.org/miguelcastell" />
-[![Miguel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcastell&line=1572B6&area_color=1572B6&bg_color=0D1117&hide_border=true&date=3)](https://github.com/miguelcastell)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelcastell&theme=github_dark"/>
 
 <p align="center">
   <a
