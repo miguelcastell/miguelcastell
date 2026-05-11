@@ -1,9 +1,3 @@
-<img 
-  src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/main/cyber.png" 
-  width="340"
-  align="right"
-/>
-
 <p align="left">
   <a href="mailto:miguelmcastell@hotmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
@@ -24,6 +18,12 @@
 > Graduando em Inteligência Artificial (3° Período) - IA | Biopark
 
 <br>
+
+<img 
+  src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/main/cyber.png"
+  width="320"
+  align="right"
+/>
 
 ### Aplicações e Bancos de Dados
 
