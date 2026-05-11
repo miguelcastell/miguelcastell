@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h3>Olá, meu nome é {Miguel}!</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&letterSpacing=1px&pause=1007&color=A855F7&width=650&height=50&lines=%3C%2F+Hello+World%2C+I'm+Miguel+Castellani+%3E)](https://git.io/typing-svg)
 
 > Analista de Sistema | Escritório Contábil <br>
 >  Graduando em Inteligência Artificial (3° Período) - IA | Biopark
