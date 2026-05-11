@@ -67,6 +67,4 @@
 </tr>
 </table>
 
----
-
 <img src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/output/github-contribution-grid-snake.svg"/>
