@@ -12,7 +12,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&letterSpacing=1px&pause=1007&color=A855F7&width=650&height=50&lines=%3C%2F+Hello+World%2C+I'm+Miguel+Castellani+%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&letterSpacing=1px&pause=1007&color=A855F7&width=650&height=50&lines=%3C%2F+Hello+World%2C+I'm+Miguel+%3E)](https://git.io/typing-svg)
 
 > Analista de Sistemas | Escritório Contábil  
 > Graduando em Inteligência Artificial (3° Período) - IA | Biopark
