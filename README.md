@@ -1,10 +1,3 @@
-<img 
-  src="https://raw.githubusercontent.com/miguelcastell/miguelcastell/main/cyber.png" 
-  alt="Ilustração de computador neon personalizada" 
-  width="400" 
-  align="right"
-/>
-
 <p align="left">
   <a href="mailto:miguelmcastell@hotmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
