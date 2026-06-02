@@ -30,6 +30,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)
 
 ### Libs e Visualização
