@@ -14,8 +14,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&letterSpacing=1px&pause=1007&color=A855F7&width=650&height=50&lines=%3C%2F+Hello+World%2C+I'm+Miguel+%3E)](https://git.io/typing-svg)
 
-> Analista de Sistemas | Escritório Contábil  
-> Graduando em Inteligência Artificial (3° Período) - IA | Biopark
+> Auxiliar de Dados | Sicredi Aliança PR/SP  
+> Graduando em Inteligência Artificial (4° Período) - IA | Biopark
 
 <br>
 
